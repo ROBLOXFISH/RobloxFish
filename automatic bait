@@ -1,0 +1,168 @@
+--신장우... 내가 죽일거야.... 💀💀
+while task.wait(0.1) do
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.world.map["Sunstone Island"].Barrel["Meshes/barrel_Cylinder"].CFrame
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("luck"):InvokeServer()
+   workspace:WaitForChild("world"):WaitForChild("npcs"):WaitForChild("Merlin"):WaitForChild("Merlin"):WaitForChild("power"):InvokeServer()
+end
